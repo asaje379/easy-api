@@ -1,0 +1,8 @@
+@easyapi/cli helps you to create and manage a node/mysql backend api 
+
+Usage: 
+    eapi <command>
+
+    Available commands are:
+
+        new <name>: create new project in <name> folder. (<name> can be a path)
